@@ -251,5 +251,6 @@ You can test these using curl, Postman, or any frontend client.
 
 - For a quick demo of key endpoints and usage examples, visit the [Usage / Examples](#-usage--examples) section above.
 
-- For comprehensive setup instructions, environment configuration, and complete API references, please refer to the [Project Documentation](https://github.com/che26tan/loginsystem/blob/main/documentation.md). 
+- For comprehensive setup instructions, environment configuration, and complete API references, please refer to the [Project Documentation]([https://github.com/che26tan/loginsystem/blob/main/documentation.md](https://github.com/che26tan/loginsystem/blob/main/backend/v1/documentation.md)).
+---
 
