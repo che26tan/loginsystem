@@ -15,7 +15,7 @@ This project is divided into two major components:
 - **Framework:** Django + Django REST Framework  
 - **Purpose:** Handles core authentication, API logic, user management, and database operations
 
-📄 Basic Overview → [README_Backend.md](./README_Backend.md)  
+📄 Basic Overview → [README_Backend.md](https://github.com/che26tan/loginsystem/blob/main/backend/v1/README_Backend.md)  
 📚 Full Documentation → [Documentation_Backend.md](./documentation_Backend.md)
 
 ---
@@ -38,4 +38,4 @@ Refer to the respective **backend** and **frontend** README files above for inst
 
 ## 📄 License
 
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
+This project is licensed under the [MIT License](https://github.com/che26tan/loginsystem/blob/main/license.txt).
