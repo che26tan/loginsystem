@@ -1,0 +1,50 @@
+{
+    "US": {
+        "name": "United States",
+        "phone_code": "1"
+    },
+    "IN": {
+        "name": "India",
+        "phone_code": "91"
+        },
+    "GB": {
+        "name": "United Kingdom",
+        "phone_code": "44"
+    },
+    "FR": {
+        "name": "France",
+        "phone_code": "33"
+    },
+    "DE": {
+        "name": "Germany",
+        "phone_code": "49"
+    },
+    "JP": {
+        "name": "Japan",
+        "phone_code": "81"
+    },
+    "CN": {
+        "name": "China",
+        "phone_code": "86"
+    },
+    "NP": {
+        "name": "Nepal",
+        "phone_code": "977"
+    },
+    "BT": {
+        "name": "Bhutan",
+        "phone_code": "975"
+    },
+    "MM": {
+        "name": "Myanmar",
+        "phone_code": "95"
+    },
+    "LK": {
+        "name": "Sri Lanka",
+        "phone_code": "94"
+    },
+    "KR": {
+        "name": "South Korea",
+        "phone_code": "82"
+    }
+}

@@ -1,0 +1,52 @@
+# Byte-compiled / Cached files
+__pycache__/
+*.py[cod]
+*.so
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.DS_Store
+
+# Virtual Environment
+venv/
+.env
+*.env
+
+# Django / Python-specific
+db.sqlite3
+db1.sqlite3
+#media/
+staticfiles/
+*.log
+*.pot
+*.mo
+*.bak
+*.old
+migrations/
+
+# IDE / Editor-specific
+.vscode/
+.idea/
+*.iml
+
+# Environment and Secrets
+.env
+secrets.json
+
+# Ignore cached country details JSON (optional)
+#common/otherdata/countrydetails.json
+
+/otp.py
+
+/nodes.txt
+
+/loginsystem/settings/prod_settings.py
+
+.dockerignore
+
+celerybeat-schedule.bak
+celerybeat-schedule.dat
+celerybeat-schedule.dir
+
+
